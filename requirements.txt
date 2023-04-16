@@ -4,3 +4,4 @@ tqdm
 numpy
 torchmetrics[image]
 matplotlib
+natsorted
